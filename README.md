@@ -1,5 +1,5 @@
 
-| Go Lang |   | |
+| Go Lang |   Sample App | |
 | -------- | --------|--------|
 
 # Sample Go web application
